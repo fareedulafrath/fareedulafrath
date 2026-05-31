@@ -2,7 +2,7 @@
 
 <img src="https://raw.githubusercontent.com/fareedulafrath/fareedulafrath/main/Github%20profile%201.jpg" width="350"/>
 
-# 🧠 Mohamed Fareedul Afrath A F
+#  Mohamed Fareedul Afrath A F
 
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=24&duration=3000&pause=1000&color=38BDF8&center=true&vCenter=true&width=820&lines=🤖+Artificial+Intelligence+%26+Data+Science+Graduate;🐍+Python+%7C+SQL+%7C+AI+%7C+ML+%7C+OpenCV;🧠+TensorFlow+%7C+FastAPI+%7C+CNN+%7C+Deep+Learning;🔐+Building+Secure+AI+Systems+for+the+Real+World)](https://git.io/typing-svg)
 
