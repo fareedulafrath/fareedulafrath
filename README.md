@@ -1,12 +1,6 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12&height=200&section=header&text=Mohamed%20Fareedul%20Afrath&fontSize=38&fontColor=ffffff&animation=twinkling&fontAlignY=38&desc=Artificial%20Intelligence%20%26%20Data%20Science%20Graduate&descAlignY=62&descSize=15&descColor=ffffff" width="100%"/>
-
-<img src="https://raw.githubusercontent.com/fareedulafrath/fareedulafrath/main/Github%20profile%201.jpg" width="140" height="140" style="border-radius:50%"/>
-
-</div>
-
-<div align="center">
+<img src="https://raw.githubusercontent.com/fareedulafrath/fareedulafrath/main/Github%20profile%201.jpg" width="350"/>
 
 # 🧠 Mohamed Fareedul Afrath A F
 
@@ -118,6 +112,7 @@ class MohamedFareedul:
 
 ---
 
+
 ## 💼 Work Experience
 
 <details>
@@ -225,4 +220,8 @@ class MohamedFareedul:
 
 </div>
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12&height=120&section=footer&animation=twinkling" width="100%"/>
+---
+
+<div align="center">
+<sub>⭐ If you find my work interesting, consider starring my repositories!</sub>
+</div>
