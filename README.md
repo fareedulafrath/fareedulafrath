@@ -33,7 +33,6 @@ class MohamedFareedul:
     name         = "Mohamed Fareedul Afrath A F"
     location     = "Chennai, Tamil Nadu, India 🇮🇳"
     degree       = "B.Tech — AI & Data Science (2026)"
-    cgpa         = "-"
     email        = "fareedulafr@gmail.com"
 
     stack = [
@@ -115,16 +114,6 @@ class MohamedFareedul:
 
 ---
 
-## 🏆 Trophy Wall
-
-<div align="center">
-
-[![Trophies](https://github-profile-trophy.vercel.app/?username=fareedulafrath&theme=tokyonight&no-frame=true&no-bg=true&row=1&column=7&margin-w=4)](https://github.com/fareedulafrath)
-
-</div>
-
----
-
 ## 💼 Work Experience
 
 <details>
@@ -194,7 +183,7 @@ class MohamedFareedul:
 |---|---|---|
 | Deep Learning Fundamentals | IBM Cognitive Class | 2026 |
 | PHP & MySQL Training | IIT Bombay Spoken Tutorial | 2025 |
-| Applied Data Science with Python | IBM Skills Network | — |
+| Applied Data Science with Python | IBM Skills Network | 2025 |
 
 </div>
 
