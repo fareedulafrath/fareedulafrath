@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,30:1a1b4b,60:0f3460,100:16213e&height=220&section=header&text=Mohamed%20Fareedul%20Afrath&fontSize=42&fontColor=38BDF8&animation=twinkling&fontAlignY=38&desc=Artificial%20Intelligence%20%26%20Data%20Science%20Graduate&descAlignY=62&descSize=16&descColor=94E2D5" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12&height=220&section=header&text=Mohamed%20Fareedul%20Afrath&fontSize=42&fontColor=ffffff&animation=twinkling&fontAlignY=38&desc=Artificial%20Intelligence%20%26%20Data%20Science%20Graduate&descAlignY=62&descSize=16&descColor=ffffff" width="100%"/>
 
 </div>
 
@@ -114,6 +114,16 @@ class MohamedFareedul:
 
 ---
 
+## 🏆 Trophy Wall
+
+<div align="center">
+
+[![Trophies](https://github-profile-trophy.vercel.app/?username=fareedulafrath&theme=tokyonight&no-frame=true&no-bg=true&row=1&column=7&margin-w=4)](https://github.com/fareedulafrath)
+
+</div>
+
+---
+
 ## 💼 Work Experience
 
 <details>
@@ -152,9 +162,9 @@ class MohamedFareedul:
 
 | 🗂️ Project | 🛠️ Stack | ✨ Highlights |
 |---|---|---|
-| [**🔐 Secure AI Agent Sandbox**](https://github.com/fareedulafrath) | Python · LLMs · AI Security | Application-level sandbox defending LLM-based banking AI agents from prompt injection; blocked majority of malicious instruction attempts via input validation & policy-controlled AI execution |
-| [**💇 HairSenseAI**](https://github.com/fareedulafrath) | Python · CNN · OpenCV · FastAPI · Streamlit · MongoDB | End-to-end hair fall detection system classifying severity from images; real-time FastAPI inference + Streamlit UI; MongoDB integration for user history & prediction logs |
-| [**🚗 CrashX**](https://github.com/fareedulafrath) | Python · OpenCV · Deep Learning | Road safety monitoring system detecting accident scenarios in real-time; dashboard with live feeds and alerts generated under 10–20 seconds for faster incident response |
+| [**🔐 Secure AI Agent Sandbox**](https://github.com/fareedulafrath/Secure-AI-Agent-Sandbox-for-Prompt-Injection-Defense-in-Banking-Systems) | Python · LLMs · AI Security | Application-level sandbox defending LLM-based banking AI agents from prompt injection; blocked majority of malicious instruction attempts via input validation & policy-controlled AI execution |
+| [**💇 HairSenseAI**](https://github.com/fareedulafrath/HairSenseAI---Hair-Health-Detection-And-Recommendation-System) | Python · CNN · OpenCV · FastAPI · Streamlit · MongoDB | End-to-end hair fall detection system classifying severity from images; real-time FastAPI inference + Streamlit UI; MongoDB integration for user history & prediction logs |
+| [**🚗 CrashX**](https://github.com/fareedulafrath/-CrashX-AI-Based-Accident-Detection-System-and-Alert-System) | Python · OpenCV · Deep Learning | Road safety monitoring system detecting accident scenarios in real-time; dashboard with live feeds and alerts generated under 10–20 seconds for faster incident response |
 
 </div>
 
@@ -221,4 +231,4 @@ class MohamedFareedul:
 
 </div>
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=120&section=footer&animation=twinkling" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12&height=120&section=footer&animation=twinkling" width="100%"/>
